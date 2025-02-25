@@ -25,7 +25,7 @@ Linked to the Borges Foundation, an organization promoting art and culture in ed
 
 This space is a platform for haikus and a living archive of the collective effort to promote poetry and art in education.
 
-### [Application for New Students at the Faculty of Pharmacy and Biochemistry, University of Buenos Aires](https://github.com/joackob/ffyb-ingresantes-web)
+### [FFyB Tutorials](https://github.com/joackob/ffyb-ingresantes-web)
 
 Under the Tutoring System aimed at new students of the Faculty of Pharmacy and Biochemistry, this application is developed to assist with study organization and planning, digital tool management, activities for training in the use of the Moodle platform, and other initiatives that foster a sense of belonging to the FFyB community.
 
